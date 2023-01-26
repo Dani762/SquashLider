@@ -3,4 +3,5 @@ public class Squash {
     //B
     //colaborador 1
     //colaborador2
+    //colaborador 3
 }
